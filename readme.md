@@ -6,6 +6,9 @@ Simple multiplication game
 
 Open the index.html in your browser to play
 
+## Screenshot
+![Multiplication Game](screenshot.png?raw=true "Multiplication Game")
+
 ## Built With
 
 * HTML5
