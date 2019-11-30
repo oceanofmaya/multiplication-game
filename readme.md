@@ -26,7 +26,7 @@ npm install
 ```
 Run locally
 ```
-node server.js
+npm run start
 ```
 Open http://localhost:3000 in your browser to play
 
