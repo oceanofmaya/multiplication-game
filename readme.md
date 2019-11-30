@@ -2,12 +2,33 @@
 
 Simple multiplication game
 
-## Getting Started
-
-Open the index.html in your browser to play
-
 ## Screenshot
 ![Multiplication Game](screenshot.png?raw=true "Multiplication Game")
+
+## Getting Started
+
+### Prerequisites
+* NodeJS
+* Git
+
+### Installing
+Fork and clone repository
+```
+git clone https://github.com/oceanofmaya/multiplication-game.git
+```
+Navigate to directory
+```
+cd multiplication-game
+```
+Get dependencies
+```
+npm install
+```
+Run locally
+```
+node server.js
+```
+Open http://localhost:3000 in your browser to play
 
 ## Built With
 
