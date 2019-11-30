@@ -12,7 +12,7 @@ Simple multiplication game
 * Git
 
 ### Installing
-Fork and clone repository
+Clone repository
 ```
 git clone https://github.com/oceanofmaya/multiplication-game.git
 ```
