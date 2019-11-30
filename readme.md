@@ -2,8 +2,14 @@
 
 Simple multiplication game
 
-## Screenshot
-![Multiplication Game](screenshot.png?raw=true "Multiplication Game")
+# Table Of Contents
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+    * [Screenshot](#screenshot)
+- [Credits](#credits)
+- [License](#license)
 
 ## Getting Started
 
@@ -11,34 +17,33 @@ Simple multiplication game
 * NodeJS
 * Git
 
-### Installing
+### Installation
 Clone repository
-```
-git clone https://github.com/oceanofmaya/multiplication-game.git
+```console
+$   git clone https://github.com/oceanofmaya/multiplication-game.git
 ```
 Navigate to directory
-```
-cd multiplication-game
+```console
+$   cd multiplication-game
 ```
 Get dependencies
-```
-npm install
+```console
+$   npm install
 ```
 Run locally
+```console
+$   npm run start
 ```
-npm run start
-```
+
+## Usage
 Open http://localhost:3000 in your browser to play
 
-## Built With
+### Screenshot
+![Multiplication Game](screenshot.png?raw=true "Multiplication Game")
 
-* HTML5
-* CSS3
-* Javascript
+## Credits
 
-## Authors
-
-* **Kishore Murthy** 
+* [**Kishore Murthy**](https://www.oceanofmaya.com "Kishore Murthy") 
 
 ## License
 
