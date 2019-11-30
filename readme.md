@@ -4,10 +4,10 @@ Simple multiplication game
 
 # Table Of Contents
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-    * [Screenshot](#screenshot)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+    * [Usage](#usage)
+        + [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
@@ -35,10 +35,10 @@ Run locally
 $   npm run start
 ```
 
-## Usage
+### Usage
 Open http://localhost:3000 in your browser to play
 
-### Screenshot
+#### Screenshot
 ![Multiplication Game](screenshot.png?raw=true "Multiplication Game")
 
 ## Credits
